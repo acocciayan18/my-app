@@ -39,7 +39,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://github.com/acocciayan18/my-app",
+  "homepage": "https://acocciayan18.github.io/my-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
